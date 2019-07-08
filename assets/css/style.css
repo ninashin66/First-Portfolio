@@ -94,6 +94,7 @@ h2 {
     width: 20%;
     float: left;
     margin-right: 20px;
+    margin-bottom: 20px;
 }
 
 .fun {
@@ -200,7 +201,9 @@ a {
     float: left;
 }
 
-
+.first{
+    max-width: 300px;
+}
 .portfolio-pics {
     float: left;
     width: 300px;
